@@ -11,7 +11,7 @@ public class UserAccount {
 
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://demo.nopcommerce.com/");
-		
+
 		System.out.println("This is Md hafizur Rahman");
 		driver.close();
 	
