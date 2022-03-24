@@ -13,7 +13,7 @@ public class UserAccount {
 		driver.get("https://demo.nopcommerce.com/");
 
 		System.out.println("This is Md hafizur Rahman");
-		driver.close();
+		//driver.close();
 	
 	
 	}
